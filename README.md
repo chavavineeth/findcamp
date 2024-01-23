@@ -1,0 +1,1 @@
+Find Camp is a user-friendly app designed for discovering camping locations across the country. With a seamless interface built in Node.js, HTML, CSS, and JavaScript, users can explore picturesque sites, view images, and easily book their preferred camping spots for a hassle-free outdoor adventure.
